@@ -2,6 +2,10 @@
 
 Minimal, light-weight jQuery ratings.
 
+## Screenshot
+
+![Minimal-jQuery-Rating-Widget-Plugin-Bar-Rating](Screenshot.png)
+
 ## How to use
 
 Documentation and examples of use can be found here:
